@@ -1,0 +1,26 @@
+#
+#  Copyright (c) 2016 Roku, Inc. All rights reserved.
+#  Roku Channel Manifest File
+#  Full spec at bit.ly/roku-manifest-file
+#
+
+# Channel Details
+title=VGMify Radio
+major_version=1
+minor_version=0
+build_version=74
+
+# Channel Assets
+mm_icon_focus_hd=pkg:/images/logo-hd.jpg
+mm_icon_focus_sd=pkg:/images/logo-sd.jpg
+
+# Splash Screen + Loading Screen Artwork
+splash_screen_fhd=pkg:/images/logo-fhd.jpg
+splash_screen_hd=pkg:/images/logo-hd.jpg
+splash_screen_sd=pkg:/images/logo-sd.jpg
+splash_color=#121212
+splash_min_time=0
+supports_input_launch=1
+
+# Resolution
+ui_resolutions=fhd

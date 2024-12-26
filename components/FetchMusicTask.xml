@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="FetchMusicTask" extends="Task">
+    <interface>
+        <field id="apiUrl"   type="string" />
+        <field id="response"  type="string" />
+        <field id="scene" type="node" />
+    </interface>
+
+    <script type="text/brightscript" uri="pkg:/components/FetchMusicTask.brs" />
+</component>
